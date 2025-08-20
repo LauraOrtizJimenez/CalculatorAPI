@@ -8,11 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69a8da55-f515-4090-99a4-66fdcb46baff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherForecast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherForecast.cs" afterDir="false" />
-    </list>
+    <list default="true" id="69a8da55-f515-4090-99a4-66fdcb46baff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755731342278</updated>
-      <workItem from="1755731344010" duration="1944000" />
+      <workItem from="1755731344010" duration="2250000" />
     </task>
     <servers />
   </component>
