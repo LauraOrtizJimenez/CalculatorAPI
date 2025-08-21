@@ -9,9 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69a8da55-f515-4090-99a4-66fdcb46baff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Controllers/CalculatorController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CalculatorAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CalculatorAPI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/CalculatorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/CalculatorController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755731342278</updated>
-      <workItem from="1755731344010" duration="4244000" />
+      <workItem from="1755731344010" duration="4734000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <option name="closed" value="true" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755734582992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Suma, resta, mult y div">
+      <option name="closed" value="true" />
+      <created>1755736084876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755736084876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +141,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Primer commit" />
     <MESSAGE value="/se elimino weather.cs&#10;/se creo CalculatorAPI" />
-    <option name="LAST_COMMIT_MESSAGE" value="/se elimino weather.cs&#10;/se creo CalculatorAPI" />
+    <MESSAGE value="Suma, resta, mult y div" />
+    <option name="LAST_COMMIT_MESSAGE" value="Suma, resta, mult y div" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
